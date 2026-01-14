@@ -18,7 +18,7 @@
     "schemas/"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx tsx scripts/projectValidation/projectValidation.ts"
   },
   "repository": {
     "type": "git",
