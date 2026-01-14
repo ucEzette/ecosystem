@@ -15,11 +15,11 @@ We welcome contributions to the DataHaven Ecosystem! This repository powers the 
     - Reference them in your JSON file.
 5.  **Validate**: Run the validation script to ensure your data is correct.
     ```bash
-    npm test
+    bun test
     ```
 6.  **Pull Request**: Submit a Pull Request to the `main` branch.
 
 ## Development
 
-- **Install Dependencies**: `npm install`
-- **Run Validation**: `npm test`
+- **Install Dependencies**: `bun install`
+- **Run Validation**: `bun test`
